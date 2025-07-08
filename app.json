@@ -13,7 +13,7 @@
             "https://raw.githubusercontent.com/appimage-shop/app/refs/heads/main/screenshots/gimp.png"
         ]
     },
-        {
+    {
         "name": "Bruno",
         "description": "Cliente de API de código aberto rápido e amigável ao Git",
         "appimage_url": "https://github.com/usebruno/bruno/releases/download/v2.7.0/bruno_2.7.0_x86_64_linux.AppImage",
@@ -25,6 +25,20 @@
         "details": "Bruno é um cliente de API de código aberto rápido e amigável ao Git, cujo objetivo é revolucionar o status quo representado pelo Postman, Insomnia e ferramentas similares por aí.",
         "screenshots": [
             "https://raw.githubusercontent.com/appimage-shop/app/refs/heads/main/screenshots/bruno.png"
+        ]
+    },
+    {
+        "name": "Audacity",
+        "description": "Software gratuito para gravação e edição de áudio.",
+        "appimage_url": "https://www.fosshub.com/Audacity-old.html?dwl=audacity-linux-3.7.2-x64-22.04.AppImage",
+        "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Audacity_Logo_nofilter.svg/128px-Audacity_Logo_nofilter.svg.png",
+        "icon": "audacity",
+        "category": "Multimídia",
+        "app": "Multimedia",
+        "version": "3.7.2",
+        "details": "O Audacity é o software gratuito mais popular do mundo para gravação e edição de áudio. Então, se você está produzindo música, criando um podcast ou apenas brincando com áudio, o Audacity é para você.",
+        "screenshots": [
+            "https://raw.githubusercontent.com/appimage-shop/app/refs/heads/main/screenshots/audacity.png"
         ]
     }
 ]

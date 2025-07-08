@@ -34,7 +34,7 @@
         "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Audacity_Logo_nofilter.svg/128px-Audacity_Logo_nofilter.png",
         "icon": "audacity",
         "category": "Multimídia",
-        "app": "Multimedia",
+        "app": "AudioVideo",
         "version": "3.7.2",
         "details": "O Audacity é o software gratuito mais popular do mundo para gravação e edição de áudio. Então, se você está produzindo música, criando um podcast ou apenas brincando com áudio, o Audacity é para você.",
         "screenshots": [

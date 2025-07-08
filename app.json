@@ -30,7 +30,7 @@
     {
         "name": "Audacity",
         "description": "Software gratuito para gravação e edição de áudio.",
-        "appimage_url": "https://www.fosshub.com/Audacity-old.html?dwl=audacity-linux-3.7.2-x64-22.04.AppImage",
+        "appimage_url": "https://github.com/audacity/audacity/releases/download/Audacity-3.7.4/audacity-linux-3.7.4-x64-22.04.AppImage",
         "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Audacity_Logo_nofilter.svg/128px-Audacity_Logo_nofilter.svg.png",
         "icon": "audacity",
         "category": "Multimídia",

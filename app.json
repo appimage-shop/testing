@@ -14,31 +14,17 @@
         ]
     },
     {
-        "name": "Bruno",
-        "description": "Cliente de API de código aberto rápido e amigável ao Git",
-        "appimage_url": "https://github.com/usebruno/bruno/releases/download/v2.7.0/bruno_2.7.0_x86_64_linux.AppImage",
-        "icon_url": "https://images.pling.com/cache/85x85-2/img/00/00/50/02/87/2147303/256x256.png",
-        "icon": "bruno",
-        "category": "Desenvolvimento",
-        "app": "Development",
-        "version": "2.7.0",
-        "details": "Bruno é um cliente de API de código aberto rápido e amigável ao Git, cujo objetivo é revolucionar o status quo representado pelo Postman, Insomnia e ferramentas similares por aí.",
-        "screenshots": [
-            "https://raw.githubusercontent.com/appimage-shop/app/refs/heads/main/screenshots/bruno.png"
-        ]
-    },
-    {
-        "name": "Audacity",
-        "description": "Software gratuito para gravação e edição de áudio.",
-        "appimage_url": "https://github.com/audacity/audacity/releases/download/Audacity-3.7.4/audacity-linux-3.7.4-x64-22.04.AppImage",
-        "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Audacity_Logo_nofilter.svg/128px-Audacity_Logo_nofilter.png",
-        "icon": "audacity",
+        "name": "VLC",
+        "description": "Reprodutor multimídia multiplataforma, gratuito e de código aberto.",
+        "appimage_url": "https://github.com/cmatomic/VLCplayer-AppImage/releases/download/3.0.11.1/VLC_media_player-3.0.11.1-x86_64.AppImage",
+        "icon_url": "https://images.videolan.org/images/VLC-IconSmall.png",
+        "icon": "vlc",
         "category": "Multimídia",
         "app": "AudioVideo",
-        "version": "3.7.2",
-        "details": "O Audacity é o software gratuito mais popular do mundo para gravação e edição de áudio. Então, se você está produzindo música, criando um podcast ou apenas brincando com áudio, o Audacity é para você.",
+        "version": "3.0.11.1",
+        "details": "O VLC é um reprodutor multimídia multiplataforma, gratuito e de código aberto, que reproduz a maioria dos arquivos multimídia, bem como DVDs, CDs de áudio, VCDs e diversos protocolos de streaming.",
         "screenshots": [
-            "https://raw.githubusercontent.com/appimage-shop/app/refs/heads/main/screenshots/audacity.png"
+            "https://raw.githubusercontent.com/appimage-shop/app/refs/heads/main/screenshots/vlc.png"
         ]
     }
 ]

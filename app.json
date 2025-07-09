@@ -42,17 +42,17 @@
         ]
     },
     {
-        "name": "qBittorrent",
-        "description": "Um cliente BitTorrent multiplataforma , gratuito e de código aberto.",
-        "appimage_url": "https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases/download/release-5.1.2.10/qBittorrent-Enhanced-Edition-x86_64.AppImage",
-        "icon_url": "https://images.pling.com/cache/85x85-2/img/00/00/50/02/87/1346648/50fcf6ce3638614852a50eef964ac07d1a4f.png",
-        "icon": "qbittorrent",
-        "category": "Internet",
-        "app": "Network",
-        "version": "5.1.2.10",
-        "details": "qBittorrent é um cliente BitTorrent multiplataforma , gratuito e de código aberto, escrito em C++ nativo . Ele se baseia em Boost , OpenSSL , zlib , Qt 6 toolkit e na biblioteca libtorrent -rasterbar (para o backend de torrents), com um mecanismo de busca opcional escrito em Python .",
+        "name": "LibreOffice",
+        "description": "Suíte de aplicativos livres e de código aberto para escritório.",
+        "appimage_url": "https://appimages.libreitalia.org/LibreOffice-24.2.0.3.full-x86_64.AppImage",
+        "icon_url": "https://images.pling.com/cache/85x85-2/img/00/00/44/47/59/1170397/be20bb1310041e43d258775064a7f83bc5da.png",
+        "icon": "libreoffice",
+        "category": "Escritório",
+        "app": "Office",
+        "version": "24.2.0.3",
+        "details": "LibreOffice é uma suíte de aplicativos livres e de código aberto para escritório disponível para Windows, Unix, Solaris, Linux e macOS. A suíte utiliza o formato OpenDocument (ODF - OpenDocument Format) — formato homologado como ISO/IEC 26300 e NBR ISO/IEC 26300 — e é também compatível com os formatos do Microsoft Office, além de outros formatos legados. Alguns deles não são suportados pelas versões mais recentes do Microsoft Office, mas ainda podem ser abertos pelo LibreOffice.",
         "screenshots": [
-            "https://raw.githubusercontent.com/appimage-shop/app/refs/heads/main/screenshots/qbittorrent.png"
+            "https://raw.githubusercontent.com/appimage-shop/app/refs/heads/main/screenshots/libreoffice.png"
         ]
     }
 ]

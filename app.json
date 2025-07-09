@@ -26,5 +26,19 @@
         "screenshots": [
             "https://raw.githubusercontent.com/appimage-shop/app/refs/heads/main/screenshots/vlc.png"
         ]
+    },
+    {
+        "name": "OBS-Studio",
+        "description": "Software para gravação de vídeo e transmissão ao vivo.",
+        "appimage_url": "https://github.com/ivan-hc/OBS-Studio-appimage/releases/download/continuous/OBS-Studio_31.0.4-1-archimage4.3-x86_64.AppImage",
+        "icon_url": "https://images.pling.com/cache/85x85-2/img/00/00/57/46/34/1409898/99270be41ab9c28e2fffd6ad5142597d863e0209c0e4f6f60af9e624af297d765bef1.png",
+        "icon": "obs",
+        "category": "Multimídia",
+        "app": "AudioVideo",
+        "version": "31.0.4",
+        "details": "Open Broadcaster Software (OBS) é um programa de streaming e gravação gratuito e de código aberto mantido pelo OBS Project.",
+        "screenshots": [
+            "https://raw.githubusercontent.com/appimage-shop/app/refs/heads/main/screenshots/obs.png"
+        ]
     }
 ]

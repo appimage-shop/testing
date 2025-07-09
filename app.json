@@ -40,5 +40,19 @@
         "screenshots": [
             "https://raw.githubusercontent.com/appimage-shop/app/refs/heads/main/screenshots/obs.png"
         ]
+    },
+    {
+        "name": "qBittorrent",
+        "description": "Um cliente BitTorrent multiplataforma , gratuito e de código aberto.",
+        "appimage_url": "https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases/download/release-5.1.2.10/qBittorrent-Enhanced-Edition-x86_64.AppImage",
+        "icon_url": "https://images.pling.com/cache/85x85-2/img/00/00/50/02/87/1346648/50fcf6ce3638614852a50eef964ac07d1a4f.png",
+        "icon": "qbittorrent",
+        "category": "Internet",
+        "app": "Network",
+        "version": "5.1.2.10",
+        "details": "qBittorrent é um cliente BitTorrent multiplataforma , gratuito e de código aberto, escrito em C++ nativo . Ele se baseia em Boost , OpenSSL , zlib , Qt 6 toolkit e na biblioteca libtorrent -rasterbar (para o backend de torrents), com um mecanismo de busca opcional escrito em Python .",
+        "screenshots": [
+            "https://raw.githubusercontent.com/appimage-shop/app/refs/heads/main/screenshots/qbittorrent.png"
+        ]
     }
 ]

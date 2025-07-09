@@ -20,7 +20,7 @@
         "icon_url": "https://images.videolan.org/images/VLC-IconSmall.png",
         "icon": "vlc",
         "category": "Multimídia",
-        "app": "AudioVideo",
+        "app": "Audio",
         "version": "3.0.11.1",
         "details": "O VLC é um reprodutor multimídia multiplataforma, gratuito e de código aberto, que reproduz a maioria dos arquivos multimídia, bem como DVDs, CDs de áudio, VCDs e diversos protocolos de streaming.",
         "screenshots": [

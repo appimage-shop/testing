@@ -19,13 +19,7 @@
         "size": "230 MB",
         "last_updated": "2025-06-15",
         "tags": ["edição de imagem", "design gráfico", "código aberto"],
-        "alternative_versions": [
-            {
-                "version": "2.10.34",
-                "appimage_url": "https://edgeuno-bog2.mm.fcix.net/gimp/gimp/v2.10.34/linux/GIMP-2.10.34-x86_64.AppImage",
-                "size": "200 MB"
-            }
-        ]
+        "alternative_versions": []
     },
     {
         "name": "VLC",
@@ -91,13 +85,7 @@
         "size": "300 MB",
         "last_updated": "2025-06-30",
         "tags": ["produtividade", "escritório", "documentos"],
-        "alternative_versions": [
-            {
-                "version": "24.1.0",
-                "appimage_url": "https://appimages.libreitalia.org/LibreOffice-24.1.0.full-x86_64.AppImage",
-                "size": "290 MB"
-            }
-        ]
+        "alternative_versions": []
     },
     {
         "name": "Krita",
